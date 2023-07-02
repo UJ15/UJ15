@@ -23,3 +23,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/spring FrameWork-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <br>
 </div>
+
+<div align=left>
+  <h3>Activity</h3>
+  <li>2023.06.26 - 2023.08.15 : 펄어비스 웹 백엔드 인턴</li>
+</div>
