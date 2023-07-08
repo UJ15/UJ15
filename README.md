@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 
 <div align=left>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<br>
 <img src="https://img.shields.io/badge/spring FrameWork-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <br>
+  <img src="https://img.shields.io/badge/C sharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
 </div>
 
 <div align=left>
