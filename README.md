@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 
 <div align=left>
   <h3>Activity</h3>
+  <li>2022.03.18 - 2022.08.23 : 프로그래머스 웹 데브코스</li>
   <li>2023.06.26 - 2023.08.18 : 펄어비스 웹 백엔드 인턴</li>
 </div>
